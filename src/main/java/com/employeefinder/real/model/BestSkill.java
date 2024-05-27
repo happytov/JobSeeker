@@ -1,0 +1,10 @@
+package com.employeefinder.real.model;
+
+public enum BestSkill {
+    CONVERT_SPECS_TO_TECH_STEPS,
+    UNDERSTANDS_INTEGRATION_TESTING,
+    UNRAVELING_ERRORS,
+    EVERYTHING_DATABASE,
+    GET_IT_WORKING_FAST,
+    JAVA_PATTERN_FOR_EFFICIENCY
+}
